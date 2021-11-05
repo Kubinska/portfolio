@@ -40,5 +40,6 @@ My Tester's Portfolio
   - [Individual project - testing site empik.com](https://www.empik.com)
   - [Report]
   - [Test cases](https://docs.google.com/spreadsheets/d/1k6bsk1ObJRQ7zAT03pN7f4sQOHwFeaDPwoBt2TMO7l8/edit?usp=sharing)
-  - [Automated Postman tests]
+  - [Automated Postman tests- Github_Gists](https://www.postman.com/collections/ee43bdc315e850c1c26c)
+  - [Automated Postman tests-JASONPlaceholder_CRUD](https://www.getpostman.com/collections/ad7436dab11b34e4bf7d)
       
