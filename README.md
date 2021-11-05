@@ -31,6 +31,7 @@ My Tester's Portfolio
 # Webinars
   - Jak poprawnie zgłaszać błędy w oprogramowaniu.
   - Kurs "Od laika do Automatyka" Webinarium Testowanie API dla początkujących
+  - WEBINAR - Testowanie REST API dla początkujących
 # My test case examples
   - [Test cases for site .....]
 # My bug reports
